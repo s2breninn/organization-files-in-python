@@ -21,4 +21,5 @@ for sufixo in sufixos:
 """
 
 while os.path.isfile(os.getcwd()) and not {sufixo for sufixo in sufixos if sufixo == 'py' }:
+    #continuidade
     ...
